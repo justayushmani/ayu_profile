@@ -7,7 +7,7 @@ const Projects = () => {
   const projects = [
     {
       title: "Netflix UI Clone",
-      description: "A pixel-perfect recreation of Netflix's user interface with responsive design, movie browsing, and detailed views.",
+      description: "A pixel-perfect recreation of Netflix's user interface with responsive design .",
       tech: ["CSS3","HTML", "Responsive Design"],
       features: ["Responsive layout", "Modern UI/UX"], 
       gradient: "from-red-500 to-red-700",
@@ -27,7 +27,7 @@ const Projects = () => {
     },
     {
       title: "X (Twitter) Clone",
-      description: "Social media platform interface with tweet functionality, user profiles, and real-time feed updates.",
+      description: "Social media platform interface .",
       tech: ["React", "CSS3", "JavaScript"],
       features: [ "User profiles", "Timeline feed"],
       gradient: "from-blue-500 to-blue-700", 
